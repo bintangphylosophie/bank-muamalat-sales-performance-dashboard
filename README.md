@@ -5,11 +5,11 @@
     <img src="https://github.com/user-attachments/assets/a0453bbc-9dd7-43f9-a393-0a158d3c5315" width="500">
 </p>
 
-PT Bank Muamalat Indonesia Tbk is the first bank in Indonesia to operate based on Islamic (sharia) principles. Today, Bank Muamalat continues to innovate by introducing a range of sharia-compliant products, including Islamic insurance, Islamic pension funds, and Islamic multifinance services.
+PT Bank Muamalat Indonesia Tbk is the first bank in Indonesia to operate based on Islamic (sharia) principles. Today, Bank Muamalat continues to innovate by introducing a range of sharia compliant products, including Islamic insurance, Islamic pension funds, and Islamic multifinance services.
 
 ## Problem Statement 
 
-As PT Bank Muamalat Indonesia Tbk expands its sharia-compliant product offerings—including Islamic insurance, pension funds, and multifinance services—it faces challenges in monitoring and evaluating product performance across different categories, cities, and time periods. The lack of a centralized, visual, and interactive reporting tool hinders the ability of decision-makers to quickly identify sales trends, customer behavior, and high-performing regions or products.
+As PT Bank Muamalat Indonesia Tbk expands its sharia (compliant product offerings—including Islamic insurance, pension funds, and multifinance services) it faces challenges in monitoring and evaluating product performance across different categories, cities, and time periods. The lack of a centralized, visual, and interactive reporting tool hinders the ability of decision-makers to quickly identify sales trends, customer behavior, and high-performing regions or products.
 
 ## Goal
 This project aims to develop a comprehensive and interactive sales performance dashboard that enables PT Bank Muamalat to track, analyze, and optimize the sales performance of its sharia-based products across various dimensions.
@@ -27,7 +27,7 @@ The master_table is a consolidated dataset derived from joining customer, order,
 
 SQL query for data cleaning and formatting is in 
 ```bash
-Sales Performance Dashboard -Bank Muamalat.sql
+Sales Performance Dashboard - Bank Muamalat.sql
 ```
 or kindly click here:
 [Sales Performance Dashboard - Bank Muamalat (SQL File)](https://github.com/bintangphylosophie/bank-muamalat-sales-performance-dashboard/blob/main/Bank%20Muamalat%20Dashboard%20-%20Query.sql)
