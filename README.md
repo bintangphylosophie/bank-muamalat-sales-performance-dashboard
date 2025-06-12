@@ -1,8 +1,8 @@
 # SALES PERFORMANCE DASHBOARD of Bank Muamalat: 
 ## Period Jan 2020-Dec 2021
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/fd5572a9-51fa-46ae-94cb-3ed25dc84bf1" width="500">
-    <img src="https://github.com/user-attachments/assets/a0453bbc-9dd7-43f9-a393-0a158d3c5315" width="500">
+    <img src="https://github.com/user-attachments/assets/fd5572a9-51fa-46ae-94cb-3ed25dc84bf1" width="350">
+    <img src="https://github.com/user-attachments/assets/a0453bbc-9dd7-43f9-a393-0a158d3c5315" width="350">
 </p>
 
 PT Bank Muamalat Indonesia Tbk is the first bank in Indonesia to operate based on Islamic (sharia) principles. Today, Bank Muamalat continues to innovate by introducing a range of sharia compliant products, including Islamic insurance, Islamic pension funds, and Islamic multifinance services.
