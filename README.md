@@ -4,7 +4,15 @@
     <img src="https://github.com/user-attachments/assets/fd5572a9-51fa-46ae-94cb-3ed25dc84bf1" width="350">
     <img src="https://github.com/user-attachments/assets/a0453bbc-9dd7-43f9-a393-0a158d3c5315" width="350">
 </p>
+Click here to:
+- [Report Bank Muamalat Sales Performance (PDF)](https://github.com/bintangphylosophie/bank-muamalat-sales-performance-dashboard/blob/main/Bank%20Muamalat%20Dashboard.pdf)
 
+- [Looker Studio Dashboard Report](https://lookerstudio.google.com/reporting/badb3c00-1f45-43fd-9306-1339d2579204)
+
+- [Bank Muamalat Sales Performance (SQL Query File)](https://github.com/bintangphylosophie/bank-muamalat-sales-performance-dashboard/blob/main/Bank%20Muamalat%20Dashboard%20-%20Query.sql)
+
+
+## About Company
 PT Bank Muamalat Indonesia Tbk is the first bank in Indonesia to operate based on Islamic (sharia) principles. Today, Bank Muamalat continues to innovate by introducing a range of sharia compliant products, including Islamic insurance, Islamic pension funds, and Islamic multifinance services.
 
 ## Problem Statement 
