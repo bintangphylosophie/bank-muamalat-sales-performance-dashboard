@@ -5,6 +5,7 @@
     <img src="https://github.com/user-attachments/assets/a0453bbc-9dd7-43f9-a393-0a158d3c5315" width="350">
 </p>
 Click here to:
+
 - [Report Bank Muamalat Sales Performance (PDF)](https://github.com/bintangphylosophie/bank-muamalat-sales-performance-dashboard/blob/main/Bank%20Muamalat%20Dashboard.pdf)
 
 - [Looker Studio Dashboard Report](https://lookerstudio.google.com/reporting/badb3c00-1f45-43fd-9306-1339d2579204)
